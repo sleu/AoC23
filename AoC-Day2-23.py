@@ -5,7 +5,7 @@ red = 12
 green = 13
 blue = 14
 color = str()
-#Game # = row+1?
+
 with open('inputs/input02.txt') as i:
     input = i.read().splitlines()
 
